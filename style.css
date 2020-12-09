@@ -19,7 +19,7 @@ body{
     position: relative;
     overflow: hidden;
     width: 40%;
-    margin-right: ;
+    border-radius: 50px 0 50px 0;
 }
 .mylogo{
     height: 100%;
@@ -95,6 +95,7 @@ body{
     color: rgb(196, 220, 0);
     font-size: x-large;
     text-align: center;
+    border-radius: 0 50px 0 50px;
     
  }
 
