@@ -56,6 +56,37 @@ body{
     background-repeat: no-repeat;
     /* z-index: 1; */
 }
+.foodimgc {
+    position: absolute;
+    top: -81px;
+    left: 122px;
+    overflow: hidden;
+    border: none;
+    height: 500px;
+    width: 700px;
+    border-radius: ;
+    background-image: url(assets/images/spoon-removebg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transform: rotate(72deg) /* z-index: 1; */;
+}
+.foodimgd {
+    position: absolute;
+    top: 493px;
+    left: -30px;
+    overflow: hidden;
+    border: none;
+    height: 300px;
+    width: 200px;
+    border-radius: ;
+    background-image: url(assets/images/pinkdrink.jpg);
+    background-position: center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    /* transform: rotate(-180deg), rotate(-180deg); z-index: 1;;*/
+} 
 .rightp{
     background-color:black;
     
